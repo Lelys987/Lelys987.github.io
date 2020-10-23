@@ -6,7 +6,6 @@
   agent-id="739ebb37-bf67-4138-aead-0069c23f4a0a"
   language-code="es"
 ></df-messenger>
-
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
