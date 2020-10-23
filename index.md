@@ -2,13 +2,6 @@
 ### Definición de AIOS
 Un sistema operativo de inteligencia artificial (AIOS) es una forma de software del sistema que administra los recursos de hardware y software de la computadora y proporciona servicios comunes para programas de computadora a través de la inteligencia artificial general. El sistema operativo AI es un componente del software del sistema en un sistema informático.
 
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger
-  chat-title="SO"
-  agent-id="739ebb37-bf67-4138-aead-0069c23f4a0a"
-  language-code="es"
-></df-messenger>
-
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -20,7 +13,7 @@ Un sistema operativo de inteligencia artificial (AIOS) es una forma de software 
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/xSW6MQqmd/";
+    const URL = "https://teachablemachine.withgoogle.com/models/l6aIcQo4q/";
 
     let model, webcam, labelContainer, maxPredictions;
 
